@@ -123,7 +123,7 @@ one_chanel_data=lambda :pd.DataFrame({
     "cover_src":[],
     "profile_videos":[]
 })
-one_chanel_data=np.array([
+l_one_chanel_data=np.array([
     "pic_s",
     "pic_m",
     "pic_b",
